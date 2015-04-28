@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item 
+        android:id="@+id/menu_send_to_huawei"
+        android:title="发送给huawei"
+        />
+    
+    <item 
+        android:id="@+id/menu_send_to_samsung"
+        android:title="发送给Samsung"
+        />
+    
+    <item 
+        android:id="@+id/menu_send_to_all"
+        android:title="发送给所有人"
+        />
+
+</menu>

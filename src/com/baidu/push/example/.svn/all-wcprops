@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mc/browser-os/!svn/ver/55723/trunk/bccs/packx/bin/templates/PushDemo/src/com/baidu/push/example
+END
+MyPushMessageReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/mc/browser-os/!svn/ver/55723/trunk/bccs/packx/bin/templates/PushDemo/src/com/baidu/push/example/MyPushMessageReceiver.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mc/browser-os/!svn/ver/55723/trunk/bccs/packx/bin/templates/PushDemo/src/com/baidu/push/example/Utils.java
+END
+PushDemoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/mc/browser-os/!svn/ver/55723/trunk/bccs/packx/bin/templates/PushDemo/src/com/baidu/push/example/PushDemoActivity.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mc/browser-os/!svn/ver/55723/trunk/bccs/packx/bin/templates/PushDemo/src/com/baidu/push/example/LoginActivity.java
+END
+CustomActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mc/browser-os/!svn/ver/55723/trunk/bccs/packx/bin/templates/PushDemo/src/com/baidu/push/example/CustomActivity.java
+END
+DemoApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/mc/browser-os/!svn/ver/55723/trunk/bccs/packx/bin/templates/PushDemo/src/com/baidu/push/example/DemoApplication.java
+END
